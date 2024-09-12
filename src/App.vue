@@ -232,7 +232,7 @@ main {
 }
 
 .draggable {
-  background: var(--vt-c-text-light-1);
+  background: var(--color-accent);
   height: 5em;
   width: 5em;
   padding: 1em;
